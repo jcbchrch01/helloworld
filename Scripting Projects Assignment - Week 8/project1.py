@@ -1,6 +1,6 @@
 import math
 
-tolerance = 0.000001
+tolerance = 0.01
 
 def newton(x):
     estimate = 1.0
